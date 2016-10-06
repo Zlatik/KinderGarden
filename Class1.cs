@@ -20,18 +20,35 @@ namespace KinderGarden
         public abstract string Address { get; set; }
         public abstract string Father { get; set; }
         public abstract string Mother { get; set; }
-        
+
     }
 
     public class Child : Human
     {
+        public string fathersphone;
+        public string teacher;
         public string group;
-        public  string Group 
+        public string mothersphone;
+        public string Group
         {
             get { return group; }
             set { group = value; }
         }
-
+        public string Teacher
+        {
+            get { return teacher; }
+            set { teacher = value; }
+        }
+        public string FathersPhone
+        {
+            get { return "+38" + fathersphone; }
+            set { fathersphone = value; }
+        }
+        public string MothersPhone
+        {
+            get { return "+38" + mothersphone; }
+            set { mothersphone = value; }
+        }
         public override int Age
         {
             get { return age; }
@@ -59,8 +76,8 @@ namespace KinderGarden
         }
         public override string Mother
         {
-            get { return father + " " + surname; }
-            set { father = value; }
+            get { return mother + " " + surname; }
+            set { mother = value; }
         }
        
     }
