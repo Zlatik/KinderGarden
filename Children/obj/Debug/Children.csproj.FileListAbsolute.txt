@@ -1,0 +1,8 @@
+D:\Projects_Wpf\KinderGarden\Children\bin\Debug\Children.exe.config
+D:\Projects_Wpf\KinderGarden\Children\bin\Debug\Children.exe
+D:\Projects_Wpf\KinderGarden\Children\bin\Debug\Children.pdb
+D:\Projects_Wpf\KinderGarden\Children\bin\Debug\KinderGarden.dll
+D:\Projects_Wpf\KinderGarden\Children\bin\Debug\KinderGarden.pdb
+D:\Projects_Wpf\KinderGarden\Children\obj\Debug\Children.csprojResolveAssemblyReference.cache
+D:\Projects_Wpf\KinderGarden\Children\obj\Debug\Children.exe
+D:\Projects_Wpf\KinderGarden\Children\obj\Debug\Children.pdb
