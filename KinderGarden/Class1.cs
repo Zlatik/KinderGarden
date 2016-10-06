@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace KinderGarden
 {
+    public abstract class Human
     public abstract class Human:IHuman
     {
         protected int age;
@@ -104,17 +105,6 @@ namespace KinderGarden
             get { return address; }
             set { address = value; }
         }
-        public override string Father
-        {
-            get { return father + " " + surname; }
-            set { father = value; }
-        }
-        public override string Mother
-        {
-            get { return mother + " " + surname; }
-            set { mother = value; }
-        }
-
 
     }
 }

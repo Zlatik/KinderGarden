@@ -1,0 +1,9 @@
+diff a/KinderGarden/Class1.cs b/KinderGarden/Class1.cs	(rejected hunks)
+@@ -6,7 +6,6 @@
+ 
+ namespace KinderGarden
+ {
+-    public abstract class Human
+     public abstract class Human:IHuman
+     {
+         protected int age;
