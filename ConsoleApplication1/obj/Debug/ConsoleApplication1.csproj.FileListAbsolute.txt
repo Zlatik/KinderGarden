@@ -1,6 +1,0 @@
-D:\Projects_Wpf\KinderGarden\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-D:\Projects_Wpf\KinderGarden\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
-D:\Projects_Wpf\KinderGarden\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
-D:\Projects_Wpf\KinderGarden\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
-D:\Projects_Wpf\KinderGarden\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-D:\Projects_Wpf\KinderGarden\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

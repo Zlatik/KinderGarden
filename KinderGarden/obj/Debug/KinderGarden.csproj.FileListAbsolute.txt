@@ -1,9 +1,0 @@
-c:\users\администратор\documents\visual studio 2015\Projects\KinderGarden\KinderGarden\bin\Debug\KinderGarden.dll
-c:\users\администратор\documents\visual studio 2015\Projects\KinderGarden\KinderGarden\bin\Debug\KinderGarden.pdb
-c:\users\администратор\documents\visual studio 2015\Projects\KinderGarden\KinderGarden\obj\Debug\KinderGarden.csprojResolveAssemblyReference.cache
-c:\users\администратор\documents\visual studio 2015\Projects\KinderGarden\KinderGarden\obj\Debug\KinderGarden.dll
-c:\users\администратор\documents\visual studio 2015\Projects\KinderGarden\KinderGarden\obj\Debug\KinderGarden.pdb
-D:\Projects_Wpf\KinderGarden\KinderGarden\bin\Debug\KinderGarden.dll
-D:\Projects_Wpf\KinderGarden\KinderGarden\bin\Debug\KinderGarden.pdb
-D:\Projects_Wpf\KinderGarden\KinderGarden\obj\Debug\KinderGarden.dll
-D:\Projects_Wpf\KinderGarden\KinderGarden\obj\Debug\KinderGarden.pdb
